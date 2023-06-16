@@ -1,0 +1,216 @@
+{
+    "nodes": [
+        {
+            "name": "Data Science",
+            "group": 1,
+            "size": 400
+        },
+        {
+            "name": "Game of Thrones",
+            "group": 2,
+            "size": 400
+        },
+        {
+            "name": "Data",
+            "group": 1,
+            "size": 365
+        },
+        {
+            "name": "Scene",
+            "group": 2,
+            "size": 64
+        },
+        {
+            "name": "Season",
+            "group": 2,
+            "size": 62
+        },
+        {
+            "name": "King",
+            "group": 2,
+            "size": 47
+        },
+        {
+            "name": "TV",
+            "group": 2,
+            "size": 45
+        },
+        {
+            "name": "Kill",
+            "group": 2,
+            "size": 32
+        },
+        {
+            "name": "Compani",
+            "group": 1,
+            "size": 29
+        },
+        {
+            "name": "Analysi",
+            "group": 1,
+            "size": 27
+        },
+        {
+            "name": "Process",
+            "group": 1,
+            "size": 26
+        },
+        {
+            "name": "Appli",
+            "group": 1,
+            "size": 26
+        },
+        {
+            "name": "Research",
+            "group": 1,
+            "size": 23
+        },
+        {
+            "name": "Episode",
+            "group": 2,
+            "size": 22
+        },
+        {
+            "name": "Market",
+            "group": 1,
+            "size": 22
+        },
+        {
+            "name": "Watch",
+            "group": 2,
+            "size": 22
+        },
+        {
+            "name": "Man",
+            "group": 2,
+            "size": 21
+        },
+        {
+            "name": "North",
+            "group": 2,
+            "size": 21
+        },
+        {
+            "name": "Hi",
+            "group": 1,
+            "size": 20
+        },
+        {
+            "name": "Level",
+            "group": 1,
+            "size": 19
+        },
+        {
+            "name": "Learn",
+            "group": 1,
+            "size": 17
+        },
+        {
+            "name": "Job",
+            "group": 1,
+            "size": 17
+        }
+    ],
+    "links": [
+        {
+            "source": 2,
+            "target": 0,
+            "value": 365
+        },
+        {
+            "source": 3,
+            "target": 1,
+            "value": 64
+        },
+        {
+            "source": 4,
+            "target": 1,
+            "value": 62
+        },
+        {
+            "source": 5,
+            "target": 1,
+            "value": 48
+        },
+        {
+            "source": 6,
+            "target": 1,
+            "value": 45
+        },
+        {
+            "source": 7,
+            "target": 1,
+            "value": 32
+        },
+        {
+            "source": 8,
+            "target": 0,
+            "value": 29
+        },
+        {
+            "source": 9,
+            "target": 0,
+            "value": 27
+        },
+        {
+            "source": 10,
+            "target": 0,
+            "value": 26
+        },
+        {
+            "source": 11,
+            "target": 0,
+            "value": 26
+        },
+        {
+            "source": 12,
+            "target": 0,
+            "value": 23
+        },
+        {
+            "source": 13,
+            "target": 1,
+            "value": 22
+        },
+        {
+            "source": 14,
+            "target": 0,
+            "value": 22
+        },
+        {
+            "source": 15,
+            "target": 1,
+            "value": 22
+        },
+        {
+            "source": 16,
+            "target": 1,
+            "value": 21
+        },
+        {
+            "source": 17,
+            "target": 1,
+            "value": 21
+        },
+        {
+            "source": 18,
+            "target": 0,
+            "value": 20
+        },
+        {
+            "source": 19,
+            "target": 0,
+            "value": 19
+        },
+        {
+            "source": 20,
+            "target": 0,
+            "value": 17
+        },
+        {
+            "source": 21,
+            "target": 0,
+            "value": 17
+        }
+    ]
+}

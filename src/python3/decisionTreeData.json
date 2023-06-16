@@ -1,0 +1,107 @@
+{
+    "name": "Analysis",
+    "children": [
+        {
+            "name": "Data=F",
+            "children": [
+                {
+                    "name": "Learn=F",
+                    "children": [
+                        {
+                            "name": "Python=F",
+                            "children": [
+                                {
+                                    "name": "Tool=F",
+                                    "children": [
+                                        {
+                                            "name": "Game of Thrones",
+                                            "size": 1
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Tool=T",
+                                    "children": [
+                                        {
+                                            "name": "Data Science",
+                                            "size": 1
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Python=T",
+                            "children": [
+                                {
+                                    "name": "Data Science",
+                                    "size": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Learn=T",
+                    "children": [
+                        {
+                            "name": "Go=F",
+                            "children": [
+                                {
+                                    "name": "Wrong=F",
+                                    "children": [
+                                        {
+                                            "name": "Data Science",
+                                            "size": 1
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Wrong=T",
+                                    "children": [
+                                        {
+                                            "name": "Game of Thrones",
+                                            "size": 1
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Go=T",
+                            "children": [
+                                {
+                                    "name": "Upload=F",
+                                    "children": [
+                                        {
+                                            "name": "Game of Thrones",
+                                            "size": 1
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Upload=T",
+                                    "children": [
+                                        {
+                                            "name": "Data Science",
+                                            "size": 1
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Data=T",
+            "children": [
+                {
+                    "name": "Data Science",
+                    "size": 1
+                }
+            ]
+        }
+    ]
+}
